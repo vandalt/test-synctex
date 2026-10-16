@@ -18,4 +18,6 @@
 </a>
 </p>
 
-An open source scientific article created using the [showyourwork](https://github.com/showyourwork/showyourwork) workflow.
+*This is an automatically generated test for [showyourwork](https://github.com/showyourwork/showyourwork) generated from the file [test_synctex.py](https://github.com/showyourwork/showyourwork/blob/main/tests/integration/test_synctex.py).*
+
+Test the paths included in synctex.
